@@ -8,7 +8,7 @@
 
 * Recherche sur l'utilisation de laravel (ORM: Eloquent). Recherche de tutoriel et de projet de CRUD.
 
-* Création de la base de donnée (schéma et jeu d'essai)
+* Création de la base de donnée (schéma et jeu d'essai) : Vous pouvez trouvez le fichier .sql à la racine du dossier
 
 * Test et configuration de la base de données (fichier config/database.php et .env)
 
@@ -19,3 +19,6 @@
 * Création du code final
 
 * Design avec bootstrap
+
+
+L'index du site : http://localhost/animaux/public/animals
